@@ -57,53 +57,53 @@ export const database = {
             image: "https://www.mediastorehouse.com/p/629/masked-puffer-arothron-diadematus-red-sea-12511893.jpg.webp"
         },
     ],
-    // tips: [
-    //     {
-    //         topic: "Water Temperature",
-    //         text: "Maintain a consistent water temperature between 75-80°F (24-27°C) for most tropical fish."
-    //     },
-    //     {
-    //         topic: "Omnivorous Fish Food",
-    //         text: "It is optimal to feed omnivorous fish a diet rich in marine-based algae and seaweed."
-    //     },
-    //     {
-    //         topic: "Oxygen Levels",
-    //         text: "Because both Yellowfin and Bluefuin Tuna are very active fish with high metabolisms, they thrive in environments with higher oxygen levels."
-    //     },
-    //     {
-    //         topic: "Light and Fish Activity",
-    //         text: "Fish activitiy is supported by coral growth, which is fueled by adequate light exposure."
-    //     },
-    //     {
-    //         topic: "Nutrient Levels",
-    //         text: "Environments that contain high nutrient levels tend to cultivate healthy and diverse marine ecosystems, but they need to be maintained in order to prevent an over-abundance of toxin-producing algae."
-    //     }
-    // ],
-    // locations: [
-    //     {
-    //         name: "Great Barrier Reef",
-    //         country: "Australia",
-    //         description: "The Great Barrier Reef is the world's largest coral reef system, supporting a diverse array of marine life."
-    //     },
-    //     {
-    //         name: "Tsugaru Straight",
-    //         country: "Japan",
-    //         description: "The cold, nutrient-rich waters of the Tusgaru Straight make it a favorable and popular spot for fishing in Japan."
-    //     },
-    //     {
-    //         name: "Red Sea",
-    //         country: "",
-    //         description: "The Red Sea contains ample coral reef systems and various marine species that thrive in its warm salt waters."
-    //     },
-    //     {
-    //         name: "Seto Inland Sea",
-    //         country: "Japan",
-    //         description: "The moderate water temperatures, the mix of seawater and freshwater inflows, and the complex underwater topography of the Seto Inland Sea make it rich in marine life and biodiversity."
-    //     },
-    //     {
-    //         name: "Catalina Channel",
-    //         country: "USA",
-    //         description: "The Catalina Channel is located in the mild climates of Southern California, creating nutrient-rich conditions that support a thriving marine ecosystem."
-    //     }
-    // ]
+    tips: [
+        {
+            topic: "Water Temperature",
+            text: "Maintain a consistent water temperature between 75-80°F (24-27°C) for most tropical fish."
+        },
+        {
+            topic: "Omnivorous Fish Food",
+            text: "It is optimal to feed omnivorous fish a diet rich in marine-based algae and seaweed."
+        },
+        {
+            topic: "Oxygen Levels",
+            text: "Because both Yellowfin and Bluefuin Tuna are very active fish with high metabolisms, they thrive in environments with higher oxygen levels."
+        },
+        {
+            topic: "Light and Fish Activity",
+            text: "Fish activitiy is supported by coral growth, which is fueled by adequate light exposure."
+        },
+        {
+            topic: "Nutrient Levels",
+            text: "Environments that contain high nutrient levels tend to cultivate healthy and diverse marine ecosystems, but they need to be maintained in order to prevent an over-abundance of toxin-producing algae."
+        }
+    ],
+    locations: [
+        {
+            name: "Great Barrier Reef",
+            country: "Australia",
+            description: "The Great Barrier Reef is the world's largest coral reef system, supporting a diverse array of marine life."
+        },
+        {
+            name: "Tsugaru Straight",
+            country: "Japan",
+            description: "The cold, nutrient-rich waters of the Tusgaru Straight make it a favorable and popular spot for fishing in Japan."
+        },
+        {
+            name: "Red Sea",
+            country: "",
+            description: "The Red Sea contains ample coral reef systems and various marine species that thrive in its warm salt waters."
+        },
+        {
+            name: "Seto Inland Sea",
+            country: "Japan",
+            description: "The moderate water temperatures, the mix of seawater and freshwater inflows, and the complex underwater topography of the Seto Inland Sea make it rich in marine life and biodiversity."
+        },
+        {
+            name: "Catalina Channel",
+            country: "USA",
+            description: "The Catalina Channel is located in the mild climates of Southern California, creating nutrient-rich conditions that support a thriving marine ecosystem."
+        }
+    ]
 }
