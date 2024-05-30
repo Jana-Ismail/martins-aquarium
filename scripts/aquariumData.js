@@ -17,7 +17,7 @@ export const database = {
             image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Paletten-Doktorfisch_M%C3%BCnster.JPG/220px-Paletten-Doktorfisch_M%C3%BCnster.JPG"
         },
         {
-            name: "Big Eye Guy",
+            name: "Big Guy",
             species: "Yellowfin Tuna",
             length: 96,
             location: "Catalina Channel",
@@ -41,7 +41,7 @@ export const database = {
             image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/2006-10-06_18_-_Yellowtail_Snapper.JPG/300px-2006-10-06_18_-_Yellowtail_Snapper.JPG"
         },
         {
-            name: "O Toro",
+            name: "Zor-O Toro",
             species: "Bluefin Tuna",
             length: 48,
             location: "Tsugaru Strait",
@@ -49,7 +49,7 @@ export const database = {
             image: "https://www.fisheries.noaa.gov/s3//styles/original/s3/2023-11/750x500-iStock-1334276621.jpg?itok=r_dN4Azx"
         },
         {
-            name: "Puffer",
+            name: "Poofy",
             species: "Masked Puffer Fish",
             length: 4,
             location: "Red Sea",
@@ -63,19 +63,19 @@ export const database = {
             text: "Maintain a consistent water temperature between 75-80°F (24-27°C) for most tropical fish."
         },
         {
-            topic: "Omnivorous Fish Food",
-            text: "It is optimal to feed omnivorous fish a diet rich in marine-based algae and seaweed."
+            topic: "Omnivorous Fish Diet",
+            text: "It is optimal to feed omnivorous fish, such as the Blue Tang Fish, a diet rich in marine-based algae and seaweed."
         },
         {
             topic: "Oxygen Levels",
-            text: "Because both Yellowfin and Bluefuin Tuna are very active fish with high metabolisms, they thrive in environments with higher oxygen levels."
+            text: "Very active fish with high metabolisms, such as Yellowfin and Bluefin Tuna, thrive in environments with higher oxygen levels."
         },
         {
             topic: "Light and Fish Activity",
-            text: "Fish activitiy is supported by coral growth, which is fueled by adequate light exposure."
+            text: "Fish activity is promoted by coral growth, which is fueled by adequate light exposure."
         },
         {
-            topic: "Nutrient Levels",
+            topic: "Nutrient Levels and Algae",
             text: "Environments that contain high nutrient levels tend to cultivate healthy and diverse marine ecosystems, but they need to be maintained in order to prevent an over-abundance of toxin-producing algae."
         }
     ],
@@ -92,7 +92,7 @@ export const database = {
         },
         {
             name: "Red Sea",
-            country: "",
+            country: "Egypt",
             description: "The Red Sea contains ample coral reef systems and various marine species that thrive in its warm salt waters."
         },
         {

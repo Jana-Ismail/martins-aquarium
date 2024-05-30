@@ -1,11 +1,14 @@
-import { fishList, renderFishListHTML } from './fishList.js'
-// import { tipList } from './tipList.js'
-// import { locationList } from './locatinList.js'
+import { fishList, renderFishListToDOM } from './fishList.js'
+import { tipList, renderTipListToDOM } from './tipList.js'
+import { locationList, renderLocationListToDOM } from './locationList.js'
 
 const fishHTML = fishList()
-renderFishListHTML(fishHTML)
+renderFishListToDOM(fishHTML)
 
-// const tipHTML = tipList()
+const tipHTML = tipList()
+renderTipListToDOM(tipHTML)
 
-// const locationHTML = locationList()
+
+const locationHTML = locationList()
+renderLocationListToDOM(locationHTML)
 
